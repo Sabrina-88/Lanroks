@@ -10,11 +10,15 @@ img{
     height: 40px;
     width: 40px;
 }
-
 div{
-    
+    margin-left: 38px;
     height: 42px;
-    width: 100%
 }
 
+footer{
+    background-color: darkslategray;
+    color: white;
+    padding: 16px;
+    width: fit-content;
+}
 
